@@ -21,7 +21,7 @@ all of MD as it is not optimized for dense, information rich UIs.
 */
 :root {
 	/* Atom one dark colours */
-	--atom-one-dark-cyan: #56B6C2;
+	--atom-one-dark-cyan: #56B6C4;
 	--atom-one-dark-blue: #61AFEF;
 	--atom-one-dark-bg-1: #121417;
 	--atom-one-dark-mono-2: #828997;
