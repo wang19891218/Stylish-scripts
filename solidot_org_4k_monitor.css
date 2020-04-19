@@ -1,0 +1,23 @@
+.p_mainnew{
+	font-size: 15px;
+}
+
+.ct_tittle{
+    font-size: 15px;
+    color: #fff;
+}
+
+#headads {
+	height: 0;   
+    visibility: hidden;
+}
+
+#ads_r{
+	height: 0;   
+    visibility: hidden;
+}
+
+#ads_l{
+	height: 0;   
+    visibility: hidden;
+}
